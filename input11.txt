@@ -1,0 +1,10 @@
+ID	|Full Name	|Medical Conditions	|Emergency Contact	|Phone	|Birthday	|Sex	|Remarks |Location
+f525aeab-fe22-4667-85c9-f5023d1663fb	|Sara Khan	|Heart Condition	|tannypo@yahoo.com	|8362073542	|10/22/97	|Female	|I am sick |location 75150
+dd1fabc8-c800-4d17-95f4-be304e26c3a6	|Vic Jang	|Deaf	|viccy6@gmail.com	|9407090468	|5/7/99	|Female	|Im litty |location 75150
+6819ccc7-c9e1-4006-80ab-a3ee93d35139	|Cersei Lannister	|Bipolar disorder	|Tad94@gmail.com	|8640284728	|12/21/79	|Female	|none |location 75150
+6fe4dd4c-f4f4-4195-b38d-93cf28f4fbe6	|Greg Johnson	|Asthma	|penytovar@hotmail.com	|8176529023	|1/24/80	|Female	|hahhaha I am not crazy |location 75150
+a3f8e346-0636-4187-87a2-78aae4cafa12	|Jon Snow	|Cancer	|Elise@yahoo.com	|9406783929	|2/12/83	|Male	|No remarks necessary |location 75150
+939c0b5f-af48-4690-af53-b5ee0b9ea776	|Udeeka W	|Dementia	|Sahar@gmail.com	|9407038276	|9/20/89	|Male	|sorry not sorry |location 75150
+31bb49b5-3db9-45a4-9678-804a0030262b	|Sahar Adnan	|Blindness	|Tadjoe96@gmail.com	|9407039468	|4/18/19	|Female	|HELP ME |location 75150
+24082f1d-aa12-493f-8073-ca734b66474b	|Sahar Adnan	|Blindness	|Tadjoe96@gmail.com	|9407039468	|8/19/97	|Female	|HELP ME PLS! |location 75150
+210955cb-44ef-422b-a9f1-4ac073c3f812	|Elam Bruce	|Hearing Impaired	|elam@gmail.com	|9155673456	|4/16/19	|Male	|Be gentle with him |location 75150
